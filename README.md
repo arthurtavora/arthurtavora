@@ -75,7 +75,7 @@
 -📚 <a href="https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx">Microsoft Azure Fundamentals</a> Credential Number: LXCD-s4wp <br />
 -📚 <a href="https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx">Microsoft Azure AI Fundamentals</a> Credential Number: JWpa-4TVv
 
-<h2> Github Stats (Click to Expand) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> </h2>
+<h2> Github Stats (Click to expand) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> </h2>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
