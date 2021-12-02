@@ -36,7 +36,7 @@
 </a>
 
 <a href="" target="_blank">
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-E6E6FA?style=for-the-badge&logoColor=white&logoHeight=50">
+  <img alt="mysql" src="https://img.shields.io/badge/mysql-7FFFD4?style=for-the-badge&logoColor=white&logoHeight=50">
 </a>
   
 <a href="" target="_blank">
